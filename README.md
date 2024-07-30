@@ -14,15 +14,21 @@ NodeRunner is a Windows application built with FluentAvalonia on Visual Studio 2
 
 1. Follow the official Guardian Node Software setup here.
 2. Rename your Guardian Node folder to "scripts".
-3. Make sure you script files are named like this 
-start.bat(script that initiates the nodes)
-check.bat(script that checks the balances)
-claim.bat(script that claims your pending balance)
-3. Clone the repository: `git clone https://github.com/Blockchaineazy/NodeRunner1.0.0.git`
-4. Place the "scripts" folder in the NodeRunner project folder (optional as you will select it in the app later).
-5. Open Visual Studio 2022.
-6. In Visual Studio, go to `File > Open > Project/Solution`.
-7. Navigate to the directory where you cloned the NodeRunner repository and select the `.sln` file to open the project.
+3. Make sure your script files are named as follows:
+    - start.bat (script that initiates the nodes)
+    - check.bat (script that checks the balances)
+    - claim.bat (script that claims your pending balance)
+4. Clone the repository: `git clone https://github.com/Blockchaineazy/NodeRunner1.0.0.git`
+5. Place the "scripts" folder in the NodeRunner project folder (optional as you will select it in the app later).
+6. Open Visual Studio 2022.
+7. In Visual Studio, go to `File > Open > Project/Solution`.
+8. Navigate to the directory where you cloned the NodeRunner repository and select the `.sln` file to open the project.
+9. Install the following packages via NuGet Package Manager:
+    - Avalonia 11.1.1
+    - Avalonia.Desktop 11.1.1
+    - Avalonia.Diagnostics 11.1.1
+    - Avalonia.Fonts.Inter 11.1.1
+    - FluentAvalonia 2.0.5
 
 ## Build (Required)
 
