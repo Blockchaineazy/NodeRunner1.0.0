@@ -8,7 +8,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Description
 
-NodeRunner is a Windows application built with FluentAvalonia on Visual Studio 2022. It allows users to run their Hychain nodes, check balances, and claim rewards.
+NodeRunner is a Windows application built with FluentAvalonia on Visual Studio Code. It allows users to run their Hychain nodes, check balances, and claim rewards.
 
 ## Installation
 
