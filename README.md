@@ -20,7 +20,7 @@ NodeRunner is a Windows application built with FluentAvalonia on Visual Studio 2
     - claim.bat (script that claims your pending balance)
 4. Clone the repository: `git clone https://github.com/Blockchaineazy/NodeRunner1.0.0.git`
 5. Place the "scripts" folder in the NodeRunner project folder (optional as you will select it in the app later).
-6. Open Visual Studio 2022.
+6. Open Visual Studio Code(download from official site if you dont have it is free).
 7. In Visual Studio, go to `File > Open > Project/Solution`.
 8. Navigate to the directory where you cloned the NodeRunner repository and select the `.sln` file to open the project.
 9. Install the following packages via NuGet Package Manager:
